@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #1b272e;
+}
+.intro{
+    margin-top: 50px;
+    text-align: center;
+}
+#icon-work{
+    height: 155px;
+}
+#icon-work-web{
+    height: 155px;
+    width: 210px;
+}
+.customer-review{
+    width: 550px;
+}
+.contact-area{
+    background-color: rgb(236, 234, 234);
+}
+iframe{
+    width: 100%;
+    height: 200px;
+}
+.footer_a{
+    color: white;
+    text-decoration: none;
+}
+.footer_a:hover{
+    color: rgb(199, 199, 199);
+}
+#footif{
+    width: 100%;
+    height: 150px;
+}
